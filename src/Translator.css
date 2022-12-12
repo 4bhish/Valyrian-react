@@ -1,0 +1,65 @@
+:root {
+    --color-primary:#0a0a23;
+    --color-secondary:  #1b1b32;
+    --color-btn: #3b3b4f;
+}
+.heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.description{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.translator
+{
+    margin: 1rem auto;
+    height: 450px;
+    width: 450px;
+    max-width: fit-content;
+    padding: 1rem;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+textarea
+{
+    display: block;
+    margin: 0.5rem auto;
+    background: var(--color-secondary);
+    border: 1px solid white;
+    width: 100%;
+    max-width: 380px;
+    height: 100px;
+    padding: 0.5rem;
+    color: white;
+    font-size: larger;
+    object-fit: contain;
+}
+
+button
+{
+    display: block;
+    margin: 1rem auto;
+    width: 120px;
+    height: 30px;
+    border: 1px solid white;
+    color: white;
+    background: var(--color-btn);
+}
+
+.outputDiv
+{
+    display: block;
+    margin: 0.5rem auto;
+    background: var(--color-secondary);
+    border: 1px solid white;
+    width: 100%;
+    max-width: 380px;
+    height: 100px;
+    padding: 0.5rem;
+    color: white;
+    font-size: larger;
+    object-fit: contain;
+}
