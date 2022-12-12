@@ -26,6 +26,6 @@ To use Valyrian Translator:
 
 This project has been deployed using Netlify.
 
-![Screenshot (9)](https://user-images.githubusercontent.com/108976136/205936081-26a45964-a896-4b8c-ac03-5f57606eabce.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/108976136/207036867-e6e85a81-8ed0-4d57-b35f-e95e1e9f1677.png)
 
 Don't forget to leave a ⭐ if you found this useful
